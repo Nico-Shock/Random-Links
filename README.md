@@ -5,3 +5,5 @@ Synth Wave Win11 Theme 2 (better): https://www.mediafire.com/file/7z9fj1xqz3qsug
 yuzu 920 (windows): https://mega.nz/file/QfkTXYrA#k9pr5c6zyaWRhP9j8HV7Je8o2ttWoTmT_J4gmUV5LKI
 
 ryujinx 738 (windows): https://mega.nz/file/1ClVFahB#rhuR471nK9EkQfs3HQjpUeD_0iOIG2j8HdXqXdVl6qY
+
+ryujinx/yuzu: https://mega.nz/file/YfdW3DqT#qDgVnEW2-VQOREJyDmt5q8F7Cbf45M-Bo6RiBaf4QnM
