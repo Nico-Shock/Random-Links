@@ -9,3 +9,7 @@ ryujinx 738 (windows): https://mega.nz/file/1ClVFahB#rhuR471nK9EkQfs3HQjpUeD_0iO
 ryujinx/yuzu: https://mega.nz/file/YfdW3DqT#qDgVnEW2-VQOREJyDmt5q8F7Cbf45M-Bo6RiBaf4QnM
 
 yuzu ea latest (windows): https://mega.nz/file/IfsG0BDb#-asi-NmhLLX2VQNWHMZzB8UhXzlULKDa8VI0SShQ4d8
+
+vmware workstation pro (windows): https://mega.nz/file/xDMnwTDS#EgOFd497a8xNAuSrYnhTIby1ii3WhsKSwEwiT2W4vF4
+
+vmware workstation pro (linux): https://mega.nz/file/Rf0SBRjD#fnVv5ljdqNWSc7nAJN10l3rqb6zpQ_paLgdey0k-7qY
