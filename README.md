@@ -7,3 +7,5 @@ yuzu 920 (windows): https://mega.nz/file/QfkTXYrA#k9pr5c6zyaWRhP9j8HV7Je8o2ttWoT
 ryujinx 738 (windows): https://mega.nz/file/1ClVFahB#rhuR471nK9EkQfs3HQjpUeD_0iOIG2j8HdXqXdVl6qY
 
 ryujinx/yuzu: https://mega.nz/file/YfdW3DqT#qDgVnEW2-VQOREJyDmt5q8F7Cbf45M-Bo6RiBaf4QnM
+
+yuzu ea latest (windows): https://mega.nz/file/IfsG0BDb#-asi-NmhLLX2VQNWHMZzB8UhXzlULKDa8VI0SShQ4d8
