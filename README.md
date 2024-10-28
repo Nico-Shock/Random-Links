@@ -13,3 +13,5 @@ yuzu ea latest (windows): https://mega.nz/file/IfsG0BDb#-asi-NmhLLX2VQNWHMZzB8Uh
 vmware workstation pro (windows): https://mega.nz/file/xDMnwTDS#EgOFd497a8xNAuSrYnhTIby1ii3WhsKSwEwiT2W4vF4
 
 vmware workstation pro (linux): https://mega.nz/file/Rf0SBRjD#fnVv5ljdqNWSc7nAJN10l3rqb6zpQ_paLgdey0k-7qY
+
+Windows Modern Cursors: https://mega.nz/file/IXEzGCxI#7AJ6z7d5D9O2EZye8Zew1_3EggJt7PwTYNCtXUdCc6w
