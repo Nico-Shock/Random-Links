@@ -20,7 +20,7 @@ Windows Apps:
 
 [Brave](https://brave.com/de/download/)
 
-[Davincy Reolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
+[Davincy Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
 
 [OBS](https://obsproject.com/download)
 
