@@ -15,3 +15,36 @@ vmware workstation pro (windows): https://mega.nz/file/xDMnwTDS#EgOFd497a8xNAuSr
 vmware workstation pro (linux): https://mega.nz/file/Rf0SBRjD#fnVv5ljdqNWSc7nAJN10l3rqb6zpQ_paLgdey0k-7qY
 
 Windows Modern Cursors: https://mega.nz/file/IXEzGCxI#7AJ6z7d5D9O2EZye8Zew1_3EggJt7PwTYNCtXUdCc6w
+
+Windows Apps:
+
+```
+[Brave](https://brave.com/de/download/)
+[Davincy Reolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
+[OBS](https://obsproject.com/download)
+[VMware](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)
+[Spotify](https://www.spotify.com/de/download/windows/)
+[Whatsapp](https://www.whatsapp.com/download)
+[Discord](https://discord.com/)
+[Vencord](https://vencord.dev/download/)
+[Steam](https://store.steampowered.com/about/)
+[Epic Games Launcher](https://store.epicgames.com/de/download)
+[Avira](https://www.avira.com/de)
+[Parallel Launcher](https://parallel-launcher.ca/)
+[Signal](https://signal.org/de/download/)
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+```
