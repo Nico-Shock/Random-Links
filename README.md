@@ -19,7 +19,7 @@ Windows Modern Cursors: https://mega.nz/file/IXEzGCxI#7AJ6z7d5D9O2EZye8Zew1_3Egg
 Windows Apps:
 
 ```
-[Brave](https://brave.com/de/download/)
+(Brave)[https://brave.com/de/download/]
 [Davincy Reolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
 [OBS](https://obsproject.com/download)
 [VMware](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)
