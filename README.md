@@ -45,11 +45,16 @@ Windows Apps:
 [Signal](https://signal.org/de/download/)
 
 [Cmake](https://cmake.org/download/)
+
 [Visual Studio 2022](https://visualstudio.microsoft.com/de/downloads/)
+
 [Process Hacker](https://processhacker.sourceforge.io/downloads.php)
+
 [VLC](https://www.videolan.org/vlc/)
-[]()
-[]()
+
+[WinRar](https://www.winrar.de/downld.php)
+
+[7-Zip](https://www.7-zip.org/download.html)
 []()
 []()
 []()
