@@ -61,8 +61,11 @@ Windows Apps:
 [Git](https://git-scm.com/downloads/win)
 
 [NVIDIA APP](https://www.nvidia.com/de-de/software/nvidia-app/)
-[]()
-[]()
+
+[Corsair icue](https://www.corsair.com/de/de/s/downloads)
+
+[Razer Synapse](https://www.razer.com/synapse-3)
+
 []()
 []()
 []()
