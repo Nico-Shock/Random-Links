@@ -16,6 +16,8 @@ vmware workstation pro (linux): https://mega.nz/file/Rf0SBRjD#fnVv5ljdqNWSc7nAJN
 
 Windows Modern Cursors: https://mega.nz/file/oSdxiY5S#li5XANNMJ6aVjYU57JEf6FGcFlejlvCjnKktMfkkhgs
 
+VM Wallpapers: https://mega.nz/file/tSlU1LTa#-faOQ08Ka3tjHZP5zvKU_cZwyG-vG_lHrEYpW8x03Fs
+
 Windows Apps:
 
 [Brave](https://brave.com/de/download/)
