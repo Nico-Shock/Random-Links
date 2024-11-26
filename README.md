@@ -14,7 +14,7 @@ vmware workstation pro (windows): https://mega.nz/file/xDMnwTDS#EgOFd497a8xNAuSr
 
 vmware workstation pro (linux): https://mega.nz/file/Rf0SBRjD#fnVv5ljdqNWSc7nAJN10l3rqb6zpQ_paLgdey0k-7qY
 
-Windows Modern Cursors: https://mega.nz/file/IXEzGCxI#7AJ6z7d5D9O2EZye8Zew1_3EggJt7PwTYNCtXUdCc6w
+Windows Modern Cursors: https://mega.nz/file/oSdxiY5S#li5XANNMJ6aVjYU57JEf6FGcFlejlvCjnKktMfkkhgs
 
 Windows Apps:
 
