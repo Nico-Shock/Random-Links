@@ -84,3 +84,4 @@ Windows Apps:
 
 [Chris Titus Tool](https://christitus.com/windows-tool/)
 
+[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
