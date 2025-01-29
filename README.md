@@ -68,7 +68,19 @@ Windows Apps:
 
 [Razer Synapse](https://www.razer.com/synapse-3)
 
-[]()
-[]()
-[]()
-[]()
+[Windhawk](https://windhawk.net/)
+
+[UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php)
+
+[Mica for everyone](https://github.com/MicaForEveryone/MicaForEveryone/releases)
+
+[.net Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
+
+[Startallback](https://www.startallback.com/)
+
+[Rectify11](https://rectify11.net/home)
+
+[Windows11 Depload](https://github.com/Raphire/Win11Debloat)
+
+[Chris Titus Tool](https://christitus.com/windows-tool/)
+
