@@ -85,3 +85,7 @@ Windows Apps:
 [Chris Titus Tool](https://christitus.com/windows-tool/)
 
 [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
+
+```
+winget install --accept-package-agreements --accept-source-agreements --exact Brave.Brave BlackmagicDesign.DaVinciResolve OBSProject.OBSStudio VMware.Workstation-Player Spotify.Spotify WhatsApp.WhatsApp Discord.Discord Valve.Steam Kitware.CMake Microsoft.VisualStudio.2022.Community wj32.ProcessHacker VideoLAN.VLC RARLab.WinRAR 7zip.7zip LunarG.VulkanSDK Git.Git NVIDIA.GeForceExperience Corsair.iCUE Razer.Synapse Microsoft.DotNet.Runtime.3_1 Mozilla.Thunderbird
+```
