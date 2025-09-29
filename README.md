@@ -74,7 +74,7 @@ Windows Apps:
 
 [Startallback](https://www.startallback.com/)
 
-[Rectify11](https://rectify11.net/home]
+[Rectify11](https://rectify11.net/home)
 
 [Chris Titus Tool](https://christitus.com/windows-tool/)
 
