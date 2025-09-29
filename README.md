@@ -20,17 +20,17 @@ VM Wallpapers: https://mega.nz/file/tSlU1LTa#-faOQ08Ka3tjHZP5zvKU_cZwyG-vG_lHrEY
 
 Windows Apps:
 
-[Brave](https://brave.com/de/download/)
+[Firefox Esr](https://www.firefox.com/de/browsers/enterprise/#download)
 
 [Davincy Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
 
 [OBS](https://obsproject.com/download)
 
-[VMware](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware+Workstation+Pro)
+[VMware](https://www.chip.de/downloads/VMware-Workstation-Pro_12995036.html)
 
-[Spotify](https://www.spotify.com/de/download/windows/)
+[Spotify](https://github.com/mrpond/BlockTheSpot)
 
-[Whatsapp](https://www.whatsapp.com/download)
+[Whatsapp](https://apps.microsoft.com/detail/9nksqgp7f2nh?hl=de-DE&gl=DE)
 
 [Discord](https://discord.com/)
 
@@ -40,7 +40,7 @@ Windows Apps:
 
 [Epic Games Launcher](https://store.epicgames.com/de/download)
 
-[Avira](https://www.avira.com/de)
+[Bitdefender](https://apps.microsoft.com/detail/xp9k931fwbp5v5?hl=de-DE&gl=DE)
 
 [Parallel Launcher](https://parallel-launcher.ca/)
 
@@ -50,13 +50,9 @@ Windows Apps:
 
 [Visual Studio 2022](https://visualstudio.microsoft.com/de/downloads/)
 
-[Process Hacker](https://processhacker.sourceforge.io/downloads.php)
-
 [VLC](https://www.videolan.org/vlc/)
 
 [WinRar](https://www.winrar.de/downld.php)
-
-[7-Zip](https://www.7-zip.org/download.html)
 
 [VulkanSDK](https://vulkan.lunarg.com/sdk/home#windows)
 
@@ -68,24 +64,18 @@ Windows Apps:
 
 [Razer Synapse](https://www.razer.com/synapse-3)
 
+[Armoury Crate Full](https://armoury-crate.com/#download-armoury-crate)
+
 [Windhawk](https://windhawk.net/)
 
-[UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php)
+[Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8?hl=de-DE&gl=US)
 
-[Mica for everyone](https://github.com/MicaForEveryone/MicaForEveryone/releases)
+[Thunderbird Esr](https://www.thunderbird.net/de/thunderbird/all/)
 
-[.net Core 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
+[Windows11 Depload](https://github.com/Raphire/Win11Debloat)
 
 [Startallback](https://www.startallback.com/)
 
 [Rectify11](https://rectify11.net/home)
 
-[Windows11 Depload](https://github.com/Raphire/Win11Debloat)
-
 [Chris Titus Tool](https://christitus.com/windows-tool/)
-
-[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher/releases)
-
-```
-winget install --accept-package-agreements --accept-source-agreements --exact Brave.Brave BlackmagicDesign.DaVinciResolve OBSProject.OBSStudio VMware.Workstation-Player Spotify.Spotify WhatsApp.WhatsApp Discord.Discord Valve.Steam Kitware.CMake Microsoft.VisualStudio.2022.Community wj32.ProcessHacker VideoLAN.VLC RARLab.WinRAR 7zip.7zip LunarG.VulkanSDK Git.Git NVIDIA.GeForceExperience Corsair.iCUE Razer.Synapse Microsoft.DotNet.Runtime.3_1 Mozilla.Thunderbird
-```
