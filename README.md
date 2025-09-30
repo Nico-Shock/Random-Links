@@ -62,6 +62,8 @@ Windows Apps:
 
 [Corsair icue](https://www.corsair.com/de/de/s/downloads)
 
+(Elgato)[https://www.elgato.com/de/de/s/downloads]
+
 [Armoury Crate Full](https://armoury-crate.com/#download-armoury-crate)
 
 [Windhawk](https://windhawk.net/)
