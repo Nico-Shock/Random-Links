@@ -20,64 +20,89 @@ VM Wallpapers: https://mega.nz/file/tSlU1LTa#-faOQ08Ka3tjHZP5zvKU_cZwyG-vG_lHrEY
 
 Windows Apps:
 
-[Firefox Esr](https://www.firefox.com/de/browsers/enterprise/#download)
+[NVIDIA APP](https://www.nvidia.com/de-de/software/nvidia-app/)
+
+[Windows11 Depload](https://github.com/Raphire/Win11Debloat)
+
+[Chris Titus Tool](https://christitus.com/windows-tool/)
+
+[Armoury Crate Full](https://aurasync.net/armoury-crate-download/#download)
 
 [Davincy Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
 
-[OBS](https://obsproject.com/download)
+[WinRar](https://www.winrar.de/downld.php)
 
-[VMware](https://www.chip.de/downloads/VMware-Workstation-Pro_12995036.html)
+[Git](https://git-scm.com/downloads/win)
 
-[Spotify](https://github.com/mrpond/BlockTheSpot)
+[Node.js](https://nodejs.org/en/download)
 
-[Whatsapp](https://apps.microsoft.com/detail/9nksqgp7f2nh?hl=de-DE&gl=DE)
+[Python](https://www.python.org/downloads/)
 
 [Discord](https://discord.com/)
 
 [Vencord](https://vencord.dev/download/)
 
+[Whatsapp](https://apps.microsoft.com/detail/9nksqgp7f2nh?hl=de-DE&gl=DE)
+
+[Thunderbird](https://www.thunderbird.net/de/thunderbird/all/)
+
+[Spotify](https://www.spotify.com/de/download/windows/)
+
+[Spicetify](https://spicetify.app/)
+
+[VLC](https://www.videolan.org/vlc/)
+
+[Paint.NET](https://www.chip.de/downloads/Paint.NET_13015268.html)
+
+[HandBrake](https://handbrake.fr/downloads.php)
+
+[Parabolic](https://github.com/NickvisionApps/Parabolic/releases/tag/2026.5.0)
+
+[Adobe Acrobat Reader](https://get.adobe.com/de/reader/)
+
+[Vegas Pro](https://www.vegascreativesoftware.com/vegas-pro/)
+
+[OBS](https://obsproject.com/download)
+
+[LM Studio](https://lmstudio.ai/)
+
+[Elgato](https://www.elgato.com/de/de/s/downloads)
+
+[Corsair icue](https://www.corsair.com/de/de/s/downloads)
+
+[Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8?hl=de-DE&gl=US)
+
+[IObit Unlocker](https://www.iobit.com/de/iobit-unlocker.php)
+
+[VMware Workstation Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)
+
 [Steam](https://store.steampowered.com/about/)
-
-[Epic Games Launcher](https://store.epicgames.com/de/download)
-
-[Bitdefender](https://apps.microsoft.com/detail/xp9k931fwbp5v5?hl=de-DE&gl=DE)
 
 [Parallel Launcher](https://parallel-launcher.ca/)
 
-[Signal](https://signal.org/de/download/)
+[Bitdefender](https://apps.microsoft.com/detail/xp9k931fwbp5v5?hl=de-DE&gl=DE)
+
+not that interesting:
+
+[VulkanSDK](https://vulkan.lunarg.com/sdk/home#windows)
 
 [Cmake](https://cmake.org/download/)
 
 [Visual Studio 2022](https://visualstudio.microsoft.com/de/downloads/)
 
-[VLC](https://www.videolan.org/vlc/)
+AI Stuff:
 
-[WinRar](https://www.winrar.de/downld.php)
+[Codex](https://chatgpt.com/de-DE/codex/)
+[Antigravity](https://antigravity.google)
+[Windsurf](https://devin.ai/download/)
+[Cursor](https://cursor.com/de/download)
 
-[VulkanSDK](https://vulkan.lunarg.com/sdk/home#windows)
-
-[Git](https://git-scm.com/downloads/win)
-
-[NVIDIA APP](https://www.nvidia.com/de-de/software/nvidia-app/)
-
-[Corsair icue](https://www.corsair.com/de/de/s/downloads)
-
-[Elgato](https://www.elgato.com/de/de/s/downloads)
-
-[Armoury Crate Full](https://armoury-crate.com/#download-armoury-crate)
-
-[Windhawk](https://windhawk.net/)
-
-[Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8?hl=de-DE&gl=US)
-
-[Thunderbird Esr](https://www.thunderbird.net/de/thunderbird/all/)
-
-[Windows11 Depload](https://github.com/Raphire/Win11Debloat)
+Optional:
 
 [Startallback](https://www.startallback.com/)
 
 [Rectify11](https://rectify11.net/home)
 
-[Chris Titus Tool](https://christitus.com/windows-tool/)
+[Windhawk](https://windhawk.net/)
 
-[(Razer Synapse)](https://www.razer.com/synapse-3)
+[Signal](https://signal.org/de/download/)
