@@ -18,7 +18,7 @@ Windows Apps:
 
 [Python](https://www.python.org/downloads/)
 
-[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE) | [Settings](https://mega.nz/file/tSdUSQiR#M_i22FBzugFmWP6KIz1BGctWpno3UqYpKZ4v4OvZMjQ)
+[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE) | [Settings](https://mega.nz/file/pPVDGTRT#ePUrmSUmCjJprk2RfKLrQs3Hug6-xsZ8u-0-QPCAiJY)
 
 [Discord](https://discord.com/)
 
