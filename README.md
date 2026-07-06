@@ -18,7 +18,7 @@ Windows Apps:
 
 [Python](https://www.python.org/downloads/)
 
-[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE) | [Settings](https://mega.nz/file/pPVDGTRT#ePUrmSUmCjJprk2RfKLrQs3Hug6-xsZ8u-0-QPCAiJY)
+[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE) | [Settings](https://mega.nz/file/pPVDGTRT#ePUrmSUmCjJprk2RfKLrQs3Hug6-xsZ8u-0-QPCAiJY) | Path: `%LOCALAPPDATA%\Microsoft\PowerToys\`
 
 [Discord](https://discord.com/)
 
@@ -46,7 +46,7 @@ Windows Apps:
 
 [OBS](https://obsproject.com/download)
 
-[LM Studio](https://lmstudio.ai/)
+[LM Studio](https://lmstudio.ai/) | [Settings](https://mega.nz/file/IG02VDyJ#Ge7QpwjaOs1EdJDLpu0CBNPid4TEqDrqXT890qjdWkA) | Path: `%USERPROFILE%\.lmstudio`
 
 [Elgato](https://www.elgato.com/de/de/s/downloads)
 
