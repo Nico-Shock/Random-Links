@@ -62,6 +62,8 @@ Windows Apps:
 
 [Parallel Launcher](https://parallel-launcher.ca/)
 
+[Azahar](https://azahar-emu.org/pages/download/)
+
 [Bitdefender](https://apps.microsoft.com/detail/xp9k931fwbp5v5?hl=de-DE&gl=DE)
 
 not that interesting:
@@ -75,8 +77,11 @@ not that interesting:
 AI Stuff:
 
 [Codex](https://chatgpt.com/de-DE/codex/)
+
 [Antigravity](https://antigravity.google)
+
 [Windsurf](https://devin.ai/download/)
+
 [Cursor](https://cursor.com/de/download)
 
 Optional:
