@@ -8,6 +8,8 @@ Windows Apps:
 
 [Armoury Crate Full](https://aurasync.net/armoury-crate-download/#download)
 
+[Asus DriverHub](https://driverhub.asus.com/de)
+
 [Davincy Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
 
 [WinRar](https://www.winrar.de/downld.php)
