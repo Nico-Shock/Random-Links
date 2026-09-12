@@ -8,6 +8,8 @@ Windows Apps:
 
 [Chris Titus Tool](https://christitus.com/windows-tool/)
 
+[Windows Web Experience Pack](ms-windows-store://pdp/?productid=9MSSGKG348SP)
+
 [Armoury Crate Full](https://aurasync.net/armoury-crate-download/#download)
 
 [Asus DriverHub](https://driverhub.asus.com/de)
