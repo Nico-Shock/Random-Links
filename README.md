@@ -1,6 +1,8 @@
 Windows Apps:
 
-[NVIDIA APP](https://www.nvidia.com/de-de/software/nvidia-app/)
+[Nvidia APP](https://www.nvidia.com/de-de/software/nvidia-app/)
+
+[Nvidia Broadcast](https://www.nvidia.com/de-de/geforce/broadcasting/broadcast-app/)
 
 [Windows11 Depload](https://github.com/Raphire/Win11Debloat)
 
@@ -22,6 +24,8 @@ Windows Apps:
 
 [PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE) | [Settings](https://mega.nz/file/pPVDGTRT#ePUrmSUmCjJprk2RfKLrQs3Hug6-xsZ8u-0-QPCAiJY) | Path: `%LOCALAPPDATA%\Microsoft\PowerToys\`
 
+[To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=de-DE&gl=DE)
+
 [Discord](https://discord.com/)
 
 [Vencord](https://vencord.dev/download/)
@@ -30,11 +34,15 @@ Windows Apps:
 
 [Thunderbird](https://www.thunderbird.net/de/thunderbird/all/)
 
+[Thunderbird Minimize on Startup Extension](https://addons.thunderbird.net/de/thunderbird/addon/minimize-on-startup/)
+
 [Spotify](https://www.spotify.com/de/download/windows/)
 
 [Spicetify](https://spicetify.app/)
 
 [VLC](https://www.videolan.org/vlc/)
+
+[MRA](https://apps.microsoft.com/detail/xp8bsvrxs65hh1?hl=de-DE&gl=DE)
 
 [Paint.NET](https://www.chip.de/downloads/Paint.NET_13015268.html)
 
@@ -47,6 +55,8 @@ Windows Apps:
 [Vegas Pro](https://www.vegascreativesoftware.com/vegas-pro/)
 
 [OBS](https://obsproject.com/download)
+
+[Streamlabs](https://streamlabs.com/de-de/)
 
 [LM Studio](https://lmstudio.ai/) | [Settings](https://mega.nz/file/IG02VDyJ#Ge7QpwjaOs1EdJDLpu0CBNPid4TEqDrqXT890qjdWkA) | Path: `%USERPROFILE%\.lmstudio`
 
@@ -68,6 +78,15 @@ Windows Apps:
 
 [Bitdefender](https://apps.microsoft.com/detail/xp9k931fwbp5v5?hl=de-DE&gl=DE)
 
+### ViveTool (September 2026 / KB5120998):
+```
+vivetool /enable /id:61161244
+```
+
+```
+vivetool /enable /id:61754985,62762248,62353331,59213768,60813048,61090762,59728252,27829265,61457898
+```
+
 not that interesting:
 
 [VulkanSDK](https://vulkan.lunarg.com/sdk/home#windows)
@@ -77,6 +96,8 @@ not that interesting:
 [Visual Studio 2022](https://visualstudio.microsoft.com/de/downloads/)
 
 AI Stuff:
+
+[Claude](https://claude.com/download)
 
 [Codex](https://chatgpt.com/de-DE/codex/)
 
