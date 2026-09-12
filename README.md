@@ -109,6 +109,8 @@ AI Stuff:
 
 Optional:
 
+[AccentColorizer](https://github.com/krlvm/AccentColorizer/releases/tag/v1.2.0)
+
 [Startallback](https://www.startallback.com/)
 
 [Rectify11](https://rectify11.net/home)
