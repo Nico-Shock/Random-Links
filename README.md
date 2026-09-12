@@ -24,7 +24,7 @@ Windows Apps:
 
 [Python](https://www.python.org/downloads/)
 
-[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE) | [Settings](https://mega.nz/file/pPVDGTRT#ePUrmSUmCjJprk2RfKLrQs3Hug6-xsZ8u-0-QPCAiJY) | Path: `%LOCALAPPDATA%\Microsoft\PowerToys\`
+[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE) | [Settings](https://mega.nz/file/pPVDGTRT#ePUrmSUmCjJprk2RfKLrQs3Hug6-xsZ8u-0-QPCAiJY) | Path: `%LOCALAPPDATA%\Microsoft\PowerToys\` (outdated, use own screenshots)
 
 [To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=de-DE&gl=DE)
 
@@ -50,7 +50,7 @@ Windows Apps:
 
 [HandBrake](https://handbrake.fr/downloads.php)
 
-[Parabolic](https://github.com/NickvisionApps/Parabolic/releases/tag/2026.5.0)
+[Parabolic](https://github.com/NickvisionApps/Parabolic/releases/latest)
 
 [Adobe Acrobat Reader](https://get.adobe.com/de/reader/)
 
