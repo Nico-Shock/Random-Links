@@ -113,6 +113,8 @@ Optional:
 
 [AccentColorizer](https://github.com/krlvm/AccentColorizer/releases/tag/v1.2.0)
 
+[MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone/releases/latest)
+
 [Startallback](https://www.startallback.com/)
 
 [Rectify11](https://rectify11.net/home)
