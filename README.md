@@ -119,6 +119,8 @@ Optional:
 
 [Rectify11](https://rectify11.net/home)
 
+[Rectify11V4RC2](https://drive.google.com/file/d/12jf2VYcVufZ-eJldgXzdn0z2aUXwfaIz/view)
+
 [Windhawk](https://windhawk.net/)
 
 [Signal](https://signal.org/de/download/)
