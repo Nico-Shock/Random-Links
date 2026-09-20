@@ -89,6 +89,8 @@ vivetool /enable /id:61161244
 vivetool /enable /id:61754985,62762248,62353331,59213768,60813048,61090762,59728252,27829265,61457898
 ```
 
+[ViVe Tool](https://github.com/thebookisclosed/ViVe/releases/latest)
+
 not that interesting:
 
 [VulkanSDK](https://vulkan.lunarg.com/sdk/home#windows)
