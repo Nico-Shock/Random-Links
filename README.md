@@ -6,17 +6,11 @@ Windows Apps:
 
 [Nvidia Broadcast](https://www.nvidia.com/de-de/geforce/broadcasting/broadcast-app/)
 
-[Windows11 Depload](https://github.com/Raphire/Win11Debloat)
-
-[Chris Titus Tool](https://christitus.com/windows-tool/)
-
-[Windows Web Experience Pack](https://apps.microsoft.com/detail/9MSSGKG348SP)
+[Windhawk](https://windhawk.net/)
 
 [Armoury Crate Full](https://aurasync.net/armoury-crate-download/#download)
 
 [Asus DriverHub](https://driverhub.asus.com/de)
-
-[Davincy Resolve](https://www.blackmagicdesign.com/de/products/davinciresolve/)
 
 [WinRar](https://www.winrar.de/downld.php)
 
@@ -26,7 +20,7 @@ Windows Apps:
 
 [Python](https://www.python.org/downloads/)
 
-[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE) | [Settings](https://mega.nz/file/pPVDGTRT#ePUrmSUmCjJprk2RfKLrQs3Hug6-xsZ8u-0-QPCAiJY) | Path: `%LOCALAPPDATA%\Microsoft\PowerToys\` (outdated, use own screenshots)
+[PowerToys](https://apps.microsoft.com/detail/xp89dcgq3k6vld?hl=de-DE&gl=DE)
 
 [To Do](https://apps.microsoft.com/detail/9nblggh5r558?hl=de-DE&gl=DE)
 
@@ -38,13 +32,11 @@ Windows Apps:
 
 [Thunderbird](https://www.thunderbird.net/de/thunderbird/all/)
 
-[Thunderbird Minimize on Startup Extension](https://addons.thunderbird.net/de/thunderbird/addon/minimize-on-startup/)
-
 [Spotify](https://www.spotify.com/de/download/windows/)
 
 [Spicetify](https://spicetify.app/)
 
-[VLC](https://www.videolan.org/vlc/)
+[Screenbox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=de-DE&gl=DE)
 
 [MRA](https://apps.microsoft.com/detail/xp8bsvrxs65hh1?hl=de-DE&gl=DE)
 
@@ -67,8 +59,6 @@ Windows Apps:
 [Elgato](https://www.elgato.com/de/de/s/downloads)
 
 [Corsair icue](https://www.corsair.com/de/de/s/downloads)
-
-[Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8?hl=de-DE&gl=US)
 
 [IObit Unlocker](https://www.iobit.com/de/iobit-unlocker.php)
 
@@ -99,13 +89,13 @@ not that interesting:
 
 [Cmake](https://cmake.org/download/)
 
-[Visual Studio 2022](https://visualstudio.microsoft.com/de/downloads/)
+[Visual Studio 2026](https://visualstudio.microsoft.com/de/downloads/)
 
 AI Stuff:
 
-[Claude](https://claude.com/download)
+[ChatGPT](https://chatgpt.com/de-DE/download/)
 
-[Codex](https://chatgpt.com/de-DE/codex/)
+[Claude](https://claude.com/download)
 
 [Antigravity](https://antigravity.google)
 
@@ -114,6 +104,8 @@ AI Stuff:
 [Cursor](https://cursor.com/de/download)
 
 Optional:
+
+[Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8?hl=de-DE&gl=US)
 
 [AccentColorizer](https://github.com/krlvm/AccentColorizer/releases/tag/v1.2.0)
 
@@ -124,8 +116,6 @@ Optional:
 [Rectify11](https://rectify11.net/home)
 
 [Rectify11V4RC2](https://drive.google.com/file/d/12jf2VYcVufZ-eJldgXzdn0z2aUXwfaIz/view)
-
-[Windhawk](https://windhawk.net/)
 
 [Signal](https://signal.org/de/download/)
 
