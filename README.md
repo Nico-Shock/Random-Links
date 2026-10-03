@@ -54,8 +54,6 @@ Windows Apps:
 
 [Streamlabs](https://streamlabs.com/de-de/)
 
-[LM Studio](https://lmstudio.ai/) | [Settings](https://mega.nz/file/IG02VDyJ#Ge7QpwjaOs1EdJDLpu0CBNPid4TEqDrqXT890qjdWkA) | Path: `%USERPROFILE%\.lmstudio`
-
 [Elgato](https://www.elgato.com/de/de/s/downloads)
 
 [Corsair icue](https://www.corsair.com/de/de/s/downloads)
