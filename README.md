@@ -2,6 +2,8 @@ Windows Apps:
 
 [WinNear](https://github.com/Nico-Shock/WinNear/releases/latest)
 
+[Brave](https://brave.com/download/)
+
 [Nvidia APP](https://www.nvidia.com/de-de/software/nvidia-app/)
 
 [Nvidia Broadcast](https://www.nvidia.com/de-de/geforce/broadcasting/broadcast-app/)
